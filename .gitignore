@@ -42,3 +42,6 @@ log/*.log.[0-9]
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Custom
+gitnot
